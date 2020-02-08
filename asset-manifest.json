@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-slider/static/css/main.11d2ee32.chunk.css",
+    "main.js": "/simple-slider/static/js/main.cef260ae.chunk.js",
+    "main.js.map": "/simple-slider/static/js/main.cef260ae.chunk.js.map",
+    "runtime-main.js": "/simple-slider/static/js/runtime-main.a37c0cec.js",
+    "runtime-main.js.map": "/simple-slider/static/js/runtime-main.a37c0cec.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/simple-slider/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7e642f69.chunk.js": "/simple-slider/static/js/2.7e642f69.chunk.js",
+    "static/js/2.7e642f69.chunk.js.map": "/simple-slider/static/js/2.7e642f69.chunk.js.map",
+    "index.html": "/simple-slider/index.html",
+    "precache-manifest.be482c5adf788745248bbea6f15a0d95.js": "/simple-slider/precache-manifest.be482c5adf788745248bbea6f15a0d95.js",
+    "service-worker.js": "/simple-slider/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/simple-slider/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.11d2ee32.chunk.css.map": "/simple-slider/static/css/main.11d2ee32.chunk.css.map",
+    "static/js/2.7e642f69.chunk.js.LICENSE.txt": "/simple-slider/static/js/2.7e642f69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a37c0cec.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7e642f69.chunk.js",
+    "static/css/main.11d2ee32.chunk.css",
+    "static/js/main.cef260ae.chunk.js"
+  ]
+}
